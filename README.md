@@ -1,4 +1,4 @@
-# Hi there, I'm Zaenal Arifin 👋
+# Hi there, I'm Zaenal Arifin <img align="center" alt="Hi!" src="https://github.com/baihakhi/baihakhi/blob/main/Assets/Hi.gif" width="40" />
 
 ### I'm a learner and highly interested in tech
 
@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning Go (Programming Language)
 - 🌱 2022 Goals: Get involved in a project from a country across the sea
 
-## Connect with me <img src="https://github.com/baihakhi/baihakhi/blob/main/Assets/Handshake.gif" width="40px"/>
+## Connect with me <img src="https://github.com/baihakhi/baihakhi/blob/main/Assets/Handshake.gif" width="50px"/>
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/baihakhi/baihakhi/blob/main/Assets/Linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://github.com/baihakhi/baihakhi/blob/main/Assets/Instagram.svg" />][instagram]
