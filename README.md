@@ -4,7 +4,7 @@
 
 - 💻 Always Learning
 - 🔭 I’m currently learning Go (Programming Language)
-- 🌱 2022 Goals: Get involved in a project from a country across the sea
+- 🌱 2023 Goals: Get involved in a project from a country across the sea
 
 ## Connect with me <img src="https://github.com/baihakhi/baihakhi/blob/main/Assets/Handshake.gif" width="50px"/>
 
