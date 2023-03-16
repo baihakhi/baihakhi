@@ -37,6 +37,6 @@
 
 ---
 
-[instagram]: https://www.instagram.com/zenaliin/
+[instagram]: https://www.instagram.com/zenalipin/
 [linkedin]: https://www.linkedin.com/in/zenalarifin/
 [gmail]: mailto:zaenal.a033@gmail.com
