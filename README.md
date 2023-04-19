@@ -30,8 +30,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baihakhi&hide=html)
-![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=baihakhi&show_icons=true&count_private=true&line_height=33.5)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baihakhi&hide=html)
+![baihakhi github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=baihakhi&show_icons=true&count_private=true&line_height=33.5)
 
 <br />
 
